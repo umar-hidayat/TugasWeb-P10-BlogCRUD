@@ -1,18 +1,3 @@
-Di Explorer VS Code kamu sudah ada folder `screenshot/`.
-
-Simpan tangkapan layar ke dalam folder `screenshot/` dengan penamaan berikut:
-
-* `screenshot/index.png` (Tampilan utama dashboard/logs)
-* `screenshot/create.png` (Form tambah log + upload gambar)
-* `screenshot/show.png` (Detail log/inspect)
-* `screenshot/edit.png` (Form patch/edit)
-* `screenshot/search.png` (Hasil query pencarian)
-
----
-
-Buka file **`README.md`** di root proyek kamu, lalu replace seluruh isinya dengan dokumentasi komprehensif berikut:
-
-```markdown
 # 🛠️ DE_Logs :: Data Engineering Pipeline Logging System
 > **Tugas Rutin 10 — Blog CRUD Laravel (Pemrograman Web)**  
 > *Universitas Negeri Medan (UNIMED) — Semester Ganjil 2026/2027*
